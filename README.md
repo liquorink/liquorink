@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Idan Kazom
--  I’m interested in React native, general programming and more
+- 👋 Hi, I’m Idan Kazom, a self-taught programmer.
+-  I’m interested in React native, general programming and more.
 -  I’m currently learning Mobile/Web development using react native/react js
 -  I’m looking for a paying job :)
 - 📫 You can reach me at liquorink@gmail
