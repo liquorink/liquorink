@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Idan Kazom, a self-taught programmer.
 -  I’m interested in ReactJs, python, general programming and more.
--  I’m currently learning Web development using react.
+-  I’m currently learning Web development using react & Perhaps mobile development later down the line with React native.
 -  I'm also learning Python for backend servers and more.
--  I'm willing to learn anytihng else to fill gaps and improve!
+-  I'm willing to learn anything else to fill gaps and improve!
 -  I’m looking for a paying job :)
 - 📫 You can reach me at liquorink@gmail
 
